@@ -1,0 +1,18 @@
+body{
+    background-color: #CCD1C7;
+}
+
+.inputs{
+border-radius: 30px;
+box-shadow:inset -4px -4px 4px #fff,inset  4px 4px 4px  rgba(0,0,0,0.3);
+margin-top:10px;
+}
+
+.btns{
+    border-radius: 30px;
+    width:30px;
+    height:30px;
+    border:none;
+}
+
+
